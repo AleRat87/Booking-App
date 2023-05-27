@@ -23,7 +23,7 @@ public class Encrypt {
         Encrypt encryptor = new Encrypt();
 
         //String password = "monkey123";
-        String hashedPas = "cc25c0f861a83f5efadc6e1ba9d1269e";
+        String hashedPas = "674f3c2c1a8a6f90461e8a66fb5550ba5678";
 
         Scanner scanner = new Scanner(System.in);
 
